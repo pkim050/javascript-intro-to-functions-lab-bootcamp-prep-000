@@ -15,8 +15,8 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  var stringTest = "hello!";
-  var stringTest2 = "HELLO!";
+  var stringTest = "hello";
+  var stringTest2 = "HELLO";
   var stringTest3 = "I love you, Grandma.";
   var stringResult = "I can't hear you!";
   var stringResult2 = "YES INDEED!";
