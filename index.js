@@ -18,15 +18,10 @@ function sayHiToGrandma(string) {
   var stringTest = "hello!";
   var stringTest2 = "HELLO!";
   var stringTest3 = "I love you, Grandma.";
-  if (string === stringTest) {
+  if (string === stringTest)
     return "I can't hear you!";
-  }
-  else if (string === stringTest2) {
+  else if (string === stringTest2)
     return "YES INDEED!";
-  }
-  else if {string === stringTest3) {
+  else if (string === stringTest3)
     return "I love you, too.";
-  }
-  else
-  return;
 }
