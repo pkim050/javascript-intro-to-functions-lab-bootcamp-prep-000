@@ -19,7 +19,7 @@ function sayHiToGrandma(string) {
   var stringTest2 = "HELLO!";
   var stringTest3 = "I love you, Grandma.";
   if (string === stringTest)
-    return "I can'\'t hear you!";
+    return "I can't hear you!";
   else if (string === stringTest2)
     return "YES INDEED!";
   else if (string === stringTest3)
